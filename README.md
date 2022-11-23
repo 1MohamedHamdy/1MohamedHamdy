@@ -1,4 +1,5 @@
-[![MasterHead]![تصميم بدون عنوان](https://user-images.githubusercontent.com/117542420/203525961-d358b0d2-04c7-45c4-9f20-c67f13e7a8ef.png)
+![MasterHead](https://user-images.githubusercontent.com/117542420/203526691-cf5eb1f1-9889-4710-9dd0-9dcd82a7143e.png)
+
 
 <h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
 <h3 align="center">Computers and Control Engineer</h3>
