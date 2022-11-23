@@ -1,10 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/117542420/203526691-cf5eb1f1-9889-4710-9dd0-9dcd82a7143e.png)
-
-
+![Black and Purple Modern Virtual Twitter Header](https://user-images.githubusercontent.com/117542420/203531722-f8610a92-326b-432b-83d1-9bb7ce82dda8.png)
 <h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
-<h3 align="center">Computers and Control Engineer</h3>
+<h3 align="center">Computers and Control Engineer,interested in Embedded Systems</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1mohamedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="1mohamedhamdy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
