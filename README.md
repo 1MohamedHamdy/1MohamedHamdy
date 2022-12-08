@@ -1,13 +1,30 @@
 ![Black and Purple Modern Virtual Twitter Header](https://user-images.githubusercontent.com/117542420/203531722-f8610a92-326b-432b-83d1-9bb7ce82dda8.png)
-<h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
-<h3 align="center">Computers and Control Engineer,interested in Embedded Systems</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center"><b>Hi , I'm Mohamed Hamdy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Computers-Control+System+Engineer,;Interested+in+Embedded+Systems,;I+Like+to+learn+new.."></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1mohamedhamdy&label=Profile%20views&color=0e75b6&style=flat" alt="1mohamedhamdy" /> </p>
+<br>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width = 350px></picture>
+
+<br>
+
+- A passionate embedded systems developer
+- Currently learning :
+  -  c programming language 
+  -  c++ programming language 
+  -   python programming language 
+  -   interfacing
+  -    embedded linux
+
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Embedded Systems at ITI**
+---
 
 - 📫 How to reach me < **+201062104397 or mohamedhamdyabdelsamie@gmail.com>**
 
